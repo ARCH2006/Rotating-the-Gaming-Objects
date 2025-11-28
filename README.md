@@ -1,6 +1,6 @@
 # Rotating-the-Gaming-Object
-## Name: Prasanna R
-## Reg No: 212222040120
+## Name: ARCHANA S
+## Reg No: 212223040019
 ## Aim:
 To develop a 3D application for rotating the gaming objects in unity.
 ## Algorithm:
